@@ -1,4 +1,4 @@
-const HOST = 'localhost:8080';
+const HOST = 'localhost:8000';
 
 export const get = (path: string): Promise<any> => {
     return fetch(`http://${HOST}/${path}`).then(res => res.json());
