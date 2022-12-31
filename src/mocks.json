@@ -1,0 +1,40 @@
+{
+  "listings": [
+    {
+      "title": "Small Cat",
+      "type": "Cat",
+      "imageUrl": "http://placekitten.com/g/200/150?hash=1",
+      "description": "Very small and furry and cute cat looking for a new home!"
+    },
+    {
+      "title": "Round Poodle",
+      "type": "Dog",
+      "imageUrl": "http://place-puppy.com/200x150?hash=1",
+      "description": "Loyal playful poodle looking for a new owner!"
+    },
+    {
+      "title": "Big Cat",
+      "type": "Cat",
+      "imageUrl": "http://placekitten.com/g/200/150?hash=2",
+      "description": "Big friendly cat looking for a forever home!"
+    },
+    {
+      "title": "Tweety Bird",
+      "type": "Bird",
+      "imageUrl": "https://placeimg.com/640/480/animals?hash=1",
+      "description": "Small round bird looking for new owner!"
+    },
+    {
+      "title": "Round Hamster",
+      "type": "Hamster",
+      "imageUrl": "https://placeimg.com/640/480/animals?hash=2",
+      "description": "Round furry hamster looking for a new happy home!"
+    },
+    {
+      "title": "Fluffy Bunny",
+      "type": "Rabbit",
+      "imageUrl": "https://placeimg.com/640/480/animals?hash=3",
+      "description": "Happy little bunny looking for a new family."
+    }
+  ]
+}
